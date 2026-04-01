@@ -22,8 +22,8 @@
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Python     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)` |
 | SQL        | ![SQL](https://img.shields.io/badge/SQL-6baed6?style=flat-square&logo=postgresql&logoColor=white) | `![SQL](https://img.shields.io/badge/SQL-6baed6?style=flat-square&logo=postgresql&logoColor=white)` |
-| R          | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | `![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)"` |
-| Scala      | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) | `![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)"` |
+| R          | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | `![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)` |
+| Scala      | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) | `![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)` |
 | Java       | ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white) | `![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)` |
 | Javascript | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) | `![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)` |
 | Typescript | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)` |
@@ -40,7 +40,7 @@
 | Pandas          | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | `![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)` |
 | Polars          | ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white) | `![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)` |
 | NumPy           | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | `![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)` |
-| Matplotlib      | ![Matplotlib](https://img.shields.io/badge/Matplotlib-4c72b0?style=flat-square) | `![Matplotlib](https://img.shields.io/badge/Matplotlib-4c72b0?style=flat-square)` |
+| Matplotlib      | ![Matplotlib](https://img.shields.io/badge/Matplotlib-4c72b0?style=flat-square&logo=python&logoColor=white) | `![Matplotlib](https://img.shields.io/badge/Matplotlib-4c72b0?style=flat-square&logo=python&logoColor=white)` |
 | Seaborn         | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) | `![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)` |
 | Plotly          | ![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white) | `![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white)` |
 | Scikit-learn    | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white) | `![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white)` |
