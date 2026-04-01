@@ -99,7 +99,8 @@
 
 | SCRAPING & AUTOMATION | Preview                                                      | Markdown Code                                                |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Playwright            | ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square) | `![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square)` |
+| Web Scraping          | ![Web Scraping](https://img.shields.io/badge/Web-Scraping-orange?style=flat-square) | `![Web Scraping](https://img.shields.io/badge/Web-Scraping-orange?style=flat-square)` |
+| Playwright             | ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square) | `[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square)]` |
 | Selenium              | ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white) | `![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white)` |
 | Requests              | ![Requests](https://img.shields.io/badge/Requests-FF6F61?style=flat-square&logo=python&logoColor=white) | `![Requests](https://img.shields.io/badge/Requests-FF6F61?style=flat-square&logo=python&logoColor=white)` |
 | yt-dlp                | ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white) | `![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)` |
