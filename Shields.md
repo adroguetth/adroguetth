@@ -62,18 +62,31 @@
 
 ## CLOUD & INFRA
 
-|                |                                                              |                                                              |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| AWS            |                                                              |                                                              |
-| Google Cloud   |                                                              |                                                              |
-| Azure          |                                                              |                                                              |
-| Docker         |                                                              |                                                              |
-| Kubernetes     |                                                              |                                                              |
-| Terraform      |                                                              |                                                              |
-| GitHub Actions |                                                              |                                                              |
-|                |                                                              |                                                              |
-| Airflow        | ![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white) | `![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white)` |
-| Linux          | ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black) | `![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)` |
+| CLOUD & INFRA     | Preview                                                      | Markdown Code                                                |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| AWS               | ![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white) | `![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white)` |
+| Google Cloud      | ![Google Cloud](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white) | `![Google Cloud](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white)` |
+| Azure             | ![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white) | `![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)` |
+| Docker            | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) | `![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)` |
+| Kubernetes        | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) | `![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)` |
+| Terraform         | ![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white) | `![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white)` |
+| GitHub Actions    | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white) | `![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)` |
+| GitHub Automation | ![Automation](https://img.shields.io/badge/Automation-GitHub_Actions-blue?style=flat-square) | `![Automation](https://img.shields.io/badge/Automation-GitHub_Actions-blue?style=flat-square) ` |
+| Airflow           | ![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white) | `![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white)` |
+| Linux             | ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black) | `![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)` |
+
+### BI & VISUALIZACIÓN
+
+| CLOUD & INFRA | Preview                                                      | Markdown Code                                                |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Power BI      | ![Power BI](https://img.shields.io/badge/PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) | `![Power BI](https://img.shields.io/badge/PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black)` |
+| Tableau       | ![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) | `![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)` |
+| Looker        | ![Looker](https://img.shields.io/badge/Looker-4285f4?style=flat-square) | `![Looker](https://img.shields.io/badge/Looker-4285f4?style=flat-square)` |
+| Grafana       | ![Grafana](https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white) | `![Grafana](https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white)` |
+| Metabase      | ![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=flat-square) | `![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=flat-square)` |
+| Excel         | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | `![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)` |
+| Google Sheets | ![Google Sheets](https://img.shields.io/badge/Sheets-34a853?style=flat-square&logo=googlesheets&logoColor=white) | `![Google Sheets](https://img.shields.io/badge/Sheets-34a853?style=flat-square&logo=googlesheets&logoColor=white)` |
+| Streamlit     | ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) | `![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)` |
 
 
 
