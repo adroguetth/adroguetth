@@ -10,6 +10,11 @@
 
 ## Estados
 
+| Licencia            | Preview                                                      | Markdown Code                                                |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Work in Progress    | ![WIP](https://img.shields.io/badge/status-WIP-fdd0a2?style=flat-square) | `![WIP](https://img.shields.io/badge/status-WIP-fdd0a2?style=flat-square)` |
+| Maintained          | ![Maintained](https://img.shields.io/badge/status-maintained-c7e9c0?style=flat-square) | `![Maintained](https://img.shields.io/badge/status-maintained-c7e9c0?style=flat-square)` |
+| Deprecated/Obsoleto | ![Deprecated](https://img.shields.io/badge/status-deprecated-fcbba1?style=flat-square) | `[Deprecated](https://img.shields.io/badge/status-deprecated-fcbba1?style=flat-square)` |
 
 ## Lenguajes
 
@@ -75,7 +80,7 @@
 | Airflow           | ![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white) | `![Airflow](https://img.shields.io/badge/Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white)` |
 | Linux             | ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black) | `![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)` |
 
-### BI & VISUALIZACIÓN
+## BI & VISUALIZACIÓN
 
 | CLOUD & INFRA | Preview                                                      | Markdown Code                                                |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -90,8 +95,42 @@
 
 
 
-## DEV TOOLS
+## SCRAPING & AUTOMATION
 
+| SCRAPING & AUTOMATION | Preview                                                      | Markdown Code                                                |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Playwright            | ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square) | `![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square)` |
+| Selenium              | ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white) | `![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white)` |
+| Requests              | ![Requests](https://img.shields.io/badge/Requests-6c757d?style=flat-square) | `![Requests](https://img.shields.io/badge/Requests-6c757d?style=flat-square)` |
+| yt-dlp                | ![yt-dlp](https://img.shields.io/badge/yt--dlp-ff0000?style=flat-square) | `![yt-dlp](https://img.shields.io/badge/yt--dlp-ff0000?style=flat-square)` |
+| BeautifulSoup         | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8fbc8f?style=flat-square) | `![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8fbc8f?style=flat-square)` |
+| Scrapy                | ![Scrapy](https://img.shields.io/badge/Scrapy-60a839?style=flat-square) | `![Scrapy](https://img.shields.io/badge/Scrapy-60a839?style=flat-square)` |
+| YouTube API           | ![YouTube API](https://img.shields.io/badge/YouTube_API-ff0000?style=flat-square&logo=youtube&logoColor=white) | `![YouTube API](https://img.shields.io/badge/YouTube_API-ff0000?style=flat-square&logo=youtube&logoColor=white)` |
+
+## APIs
+| APIs          | Preview                                                      | Markdown Code                                                |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| MusicBrainz   | ![MusicBrainz](https://img.shields.io/badge/MusicBrainz-ba478f?style=flat-square) | `![MusicBrainz](https://img.shields.io/badge/MusicBrainz-ba478f?style=flat-square)"` |
+| Wikipedia API | ![Wikipedia API](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white) | `![Wikipedia API](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)` |
+| Wikidata      | ![Wikidata](https://img.shields.io/badge/Wikidata-006699?style=flat-square) | `![Wikidata](https://img.shields.io/badge/Wikidata-006699?style=flat-square)` |
+| Spotify API   | ![Spotify API](https://img.shields.io/badge/Spotify-1db954?style=flat-square&logo=spotify&logoColor=white) | `![Spotify API](https://img.shields.io/badge/Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)` |
+| Twitter API   | ![Twitter API](https://img.shields.io/badge/Twitter_API-1da1f2?style=flat-square&logo=twitter&logoColor=white) | `![Twitter API](https://img.shields.io/badge/Twitter_API-1da1f2?style=flat-square&logo=twitter&logoColor=white)` |
+| OpenStreetMap | ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7ebc6f?style=flat-square&logo=openstreetmap&logoColor=white) | `![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7ebc6f?style=flat-square&logo=openstreetmap&logoColor=white)` |
+
+ ## IA
+| IAs         | Preview                                                      | Markdown Code                                                |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ChatGPT     | ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square) | `![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square)` |
+| Claude      | ![Claude](https://img.shields.io/badge/Claude-d97706?style=flat-square) | `![Claude](https://img.shields.io/badge/Claude-d97706?style=flat-square)` |
+| Gemini      | ![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square) | `![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square)` |
+| DeepSeek    | ![DeepSeek](https://img.shields.io/badge/DeepSeek-4f46e5?style=flat-square) | `![DeepSeek](https://img.shields.io/badge/DeepSeek-4f46e5?style=flat-square)` |
+| Grok        | ![Grok](https://img.shields.io/badge/Grok-111827?style=flat-square) | `![Grok](https://img.shields.io/badge/Grok-111827?style=flat-square)` |
+| HuggingFace | ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black) | `![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black)` |
+| LangChain   | ![LangChain](https://img.shields.io/badge/LangChain-16a34a?style=flat-square) | `![LangChain](https://img.shields.io/badge/LangChain-16a34a?style=flat-square)` |
+| Ollama      | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) | `![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)` |
+
+
+## DEV TOOLS
 | DEV TOOLS  | Preview                                                      | Markdown Code                                                |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Git        | ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white) | `![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)` |
@@ -106,7 +145,3 @@
 | pre-commit | ![pre-commit](https://img.shields.io/badge/pre--commit-fab040?style=flat-square) | `![pre-commit](https://img.shields.io/badge/pre--commit-fab040?style=flat-square)` |
 | Makefile   | ![Makefile](https://img.shields.io/badge/Makefile-6d6d6d?style=flat-square) | `![Makefile](https://img.shields.io/badge/Makefile-6d6d6d?style=flat-square)` |
 
-    "poetry": "![Poetry](https://img.shields.io/badge/Poetry-60a5fa?style=flat-square)",
-    "pip": "![pip](https://img.shields.io/badge/pip-3775a9?style=flat-square)",
-    "precommit": "![pre-commit](https://img.shields.io/badge/pre--commit-fab040?style=flat-square)",
-    "makefile": "![Makefile](https://img.shields.io/badge/Makefile-6d6d6d?style=flat-square)"
