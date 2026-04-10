@@ -37,7 +37,7 @@ Not AI-generated. Not a copy-paste. Written from experience, for anyone who want
 It covers DDL, DML, DQL, transactions, JOINs, subqueries, window functions, CTEs, query optimization, automation, and real business cases — including customer analysis, sales reporting, KPIs, and behavior patterns.  
 Free for everyone. Always will be.
 
-> 🔗 [sql-server-desde-cero](https://github.com/adroguetth/sql-server-desde-cero) — In progress · Contributions welcome
+> 🔗 [sql-server-desde-cero](https://github.com/adroguetth/sql-server-practico) — In progress · Contributions welcome
 
 ---
 
