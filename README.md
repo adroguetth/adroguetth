@@ -1,39 +1,43 @@
 # Alfonso Droguett
 
-Data Analyst | Automation & Data Pipelines  
-Building systems that turn raw data into reusable assets.
+Data Analyst · Automation & Data Pipelines
 
-Python • SQL • Data Automation • CI/CD
+I design and build data pipelines that automate collection, processing, and analysis — not just dashboards, but reproducible systems that generate reliable data over time.
 
+`Python` `SQL` `Data Automation` `CI/CD` `ETL`
 
-I design and build data pipelines that automate data collection, processing and analysis.
+> "Data is not just analyzed. It must be generated, structured and sustained."
 
-My focus is not just dashboards, but creating reproducible systems that generate reliable data over time.
+## Currently working on
 
-Currently working on:
 - Automated data pipelines (scraping + storage + CI/CD)
 - Data analysis with Python & SQL
 - Transitioning towards Data Engineering
 
-> "Data is not just analyzed. It must be generated, structured and sustained."
+## Tech stack
 
-I believe in building data systems instead of one-time analyses.
+- **Collection** — Playwright, yt-dlp, Selenium, REST APIs
+- **Processing** — Python (Pandas, NumPy), SQL (CTEs, window functions)
+- **Orchestration** — GitHub Actions
+- **Visualization** — Power BI, Streamlit
 
-## 🛠️ Tech Stack
+## Featured projects
 
-- Python (Pandas, NumPy, Playwright)
-- SQL (Advanced queries, CTEs)
-- Data Automation (GitHub Actions)
-- Data Visualization (Power BI, Streamlit)
+### YouTube Music Intelligence Pipeline
 
-## 🚀 Featured Projects
-### 1. YouTube Music Intelligence Pipeline
-End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly charts. Features multi-source artist enrichment (MusicBrainz, Wikipedia, Wikidata, DeepSeek), 3-layer YouTube metadata retrieval (API/Selenium/yt-dlp), and automated bilingual Jupyter notebooks with AI insights. Fully orchestrated on GitHub Actions with 4 integrated workflows.
-**Repo**: [https://github.com/adroguetth/Music-Charts-Intelligence]
+End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly charts. Features multi-source artist enrichment (MusicBrainz, Wikipedia, Wikidata, DeepSeek), 3-layer metadata retrieval (API / Selenium / yt-dlp), and automated bilingual Jupyter notebooks with AI insights. Fully orchestrated on GitHub Actions with 4 integrated workflows.
 
-## 📈 Currently Learning
+[github.com/adroguetth/Music-Charts-Intelligence](https://github.com/adroguetth/Music-Charts-Intelligence)
+
+## Expanding into
 
 - Docker (containerization)
 - PostgreSQL
-- R
-- Data pipeline orchestration
+- Pipeline orchestration (Airflow / Prefect)
+- R — exploratory & research-focused analysis
+
+## Contact
+
+Open to collaborations, freelance work, or just talking data.
+
+[LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_EMAIL)
