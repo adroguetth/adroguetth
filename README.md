@@ -29,7 +29,7 @@ End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly ch
 [github.com/adroguetth/Music-Charts-Intelligence](https://github.com/adroguetth/Music-Charts-Intelligence) — In progress 
 
 ---
-## 📚 Free Course — SQL Server desde cero
+## 📚 Free Course — SQL Server desde cero (en español)
 
 I spent months writing a complete, hands-on SQL Server course in Spanish — from fundamentals to real business logic.  
 Not AI-generated. Not a copy-paste. Written from experience, for anyone who wants to actually learn.
