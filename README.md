@@ -25,3 +25,15 @@ I believe in building data systems instead of one-time analyses.
 - SQL (Advanced queries, CTEs)
 - Data Automation (GitHub Actions)
 - Data Visualization (Power BI, Streamlit)
+
+## 🚀 Featured Projects
+### 1. YouTube Music Intelligence Pipeline
+End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly charts. Features multi-source artist enrichment (MusicBrainz, Wikipedia, Wikidata, DeepSeek), 3-layer YouTube metadata retrieval (API/Selenium/yt-dlp), and automated bilingual Jupyter notebooks with AI insights. Fully orchestrated on GitHub Actions with 4 integrated workflows.
+**Repo**: [https://github.com/adroguetth/Music-Charts-Intelligence]
+
+## 📈 Currently Learning
+
+- Docker (containerization)
+- PostgreSQL
+- R
+- Data pipeline orchestration
