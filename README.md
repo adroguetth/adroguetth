@@ -14,3 +14,7 @@ Currently working on:
 - Automated data pipelines (scraping + storage + CI/CD)
 - Data analysis with Python & SQL
 - Transitioning towards Data Engineering
+
+> "Data is not just analyzed. It must be generated, structured and sustained."
+
+I believe in building data systems instead of one-time analyses.
