@@ -18,3 +18,10 @@ Currently working on:
 > "Data is not just analyzed. It must be generated, structured and sustained."
 
 I believe in building data systems instead of one-time analyses.
+
+## 🛠️ Tech Stack
+
+- Python (Pandas, NumPy, Playwright)
+- SQL (Advanced queries, CTEs)
+- Data Automation (GitHub Actions)
+- Data Visualization (Power BI, Streamlit)
