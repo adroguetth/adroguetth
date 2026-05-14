@@ -28,17 +28,10 @@ End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly ch
 
 [github.com/adroguetth/Music-Charts-Intelligence](https://github.com/adroguetth/Music-Charts-Intelligence) — In progress 
 
----
-## 📚 Free Course — SQL Server desde cero
+### Sales Monitoring Engine
+End-to-end retail sales simulation pipeline that generates realistic synthetic sales data for 5 stores and 25 products, enriched with dynamic e‑commerce events (CyberDay, CyberMonday, Black Friday), multi‑factor demand modeling (seasonality, holidays, promotions, stockouts), and automated daily fact table generation. Features intelligent event date fetching via multi‑source web scraping (12 sources) with DeepSeek arbitration, static master data management, and fully automated daily ETL on GitHub Actions with 3 integrated workflow
 
-I spent months writing a complete, hands-on SQL Server course in Spanish — from fundamentals to real business logic.  
-Not AI-generated. Not a copy-paste. Written from experience, for anyone who wants to actually learn.
-
-It covers DDL, DML, DQL, transactions, JOINs, subqueries, window functions, CTEs, query optimization, automation, and real business cases — including customer analysis, sales reporting, KPIs, and behavior patterns.  
-Free for everyone. Always will be.
-
-> 🔗 [sql-server-desde-cero](https://github.com/adroguetth/sql-server-practico) — In progress · Contributions welcome
-
+[github.com/adroguetth/Sales-Monitoring-Engine](https://github.com/adroguetth/Sales-Monitoring-Engine)
 ---
 
 ## Expanding into
@@ -51,4 +44,4 @@ Free for everyone. Always will be.
 ## Contact
 Open to collaborations, freelance work, or just talking data.
 
-[LinkedIn](https://www.linkedin.com/in/adroguetth/) · [Email](mailto:)
+[LinkedIn](https://www.linkedin.com/in/adroguetth/) · [Email](mailto:adroguett.consultor@gmail.com)
