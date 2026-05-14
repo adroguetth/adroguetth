@@ -31,7 +31,8 @@ End-to-end ETL pipeline that downloads, enriches, and analyzes YouTube weekly ch
 ### Sales Monitoring Engine
 End-to-end retail sales simulation pipeline that generates realistic synthetic sales data for 5 stores and 25 products, enriched with dynamic e‑commerce events (CyberDay, CyberMonday, Black Friday), multi‑factor demand modeling (seasonality, holidays, promotions, stockouts), and automated daily fact table generation. Features intelligent event date fetching via multi‑source web scraping (12 sources) with DeepSeek arbitration, static master data management, and fully automated daily ETL on GitHub Actions with 3 integrated workflow
 
-[github.com/adroguetth/Sales-Monitoring-Engine](https://github.com/adroguetth/Sales-Monitoring-Engine)
+[github.com/adroguetth/Sales-Monitoring-Engine](https://github.com/adroguetth/Sales-Monitoring-Engine) — In progress 
+
 ---
 
 ## Expanding into
