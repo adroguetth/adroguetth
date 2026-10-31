@@ -26,7 +26,7 @@ I design and build data pipelines that automate collection, processing, and anal
 ### Chilean-Presidential-Elections-2025-Analysis
 A comprehensive electoral intelligence system for the 2025 Chilean presidential elections (covering both the first and second rounds across 346 communes within 16 regions). The workflow spans the entire data pipeline: from retrieving official data from SERVEL using custom Selenium-based scrapers, through an analytical layer in SQL Server (incorporating 26 T-SQL queries with CTEs) and bilingual Jupyter notebooks—focused on territorial mapping and analysis (including K-Means algorithms)—to an interactive Streamlit dashboard (available in both Spanish and English) featuring a complex, six-level navigation system. The system includes name normalization across disparate datasets, geographic transition mapping, and strategic analysis of the electoral behavior of voters who supported Parisi, as well as trends from previous elections.
 
-[github.com/adroguetth/Chilean-Presidential-Elections-2025-Analysis](https://github.com/adroguetth/Chilean-Presidential-Elections-2025-Analysis) — Completed<br>
+[github.com/adroguetth/Chilean-Presidential-Elections-2025-Analysis](https://github.com/adroguetth/Chilean-Presidential-Elections-2025-Analysis) — Completed<br><br>
 [chilean-presidential-election-2025.streamlit.app/](https://chilean-presidential-election-2025.streamlit.app/) — Dashboard
 
 ### YouTube Music Intelligence Pipeline
