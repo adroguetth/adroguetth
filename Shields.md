@@ -119,20 +119,27 @@
 | OpenStreetMap | ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7ebc6f?style=flat-square&logo=openstreetmap&logoColor=white) | `![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7ebc6f?style=flat-square&logo=openstreetmap&logoColor=white)` |
 
  ## IA
-| IAs         | Preview                                                      | Markdown Code                                                |
-| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ChatGPT     | ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square) | `![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square)` |
-| Claude      | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | `![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)` |
-| Gemini      | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)  | `![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ` |
-| Gemma4     | ![Gemma](https://img.shields.io/badge/Gemma%204-4285F4?style=flat-square&logo=google&logoColor=white)  | `[Gemma](https://img.shields.io/badge/Gemma%204-4285F4?style=flat-square&logo=google&logoColor=white)` |
-| DeepSeek    | [![DeepSeek](https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=white&style=flat-square)](https://deepseek.com) | `[![DeepSeek](https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=white&style=flat-square)](https://deepseek.com)` |
-| Grok        | ![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white) | `![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)` |
-| Muse Spark    | ![Muse Spark](https://img.shields.io/badge/Muse%20Spark-0064E0?style=flat-square&logo=meta&logoColor=white) | `![Muse Spark](https://img.shields.io/badge/Muse%20Spark-0064E0?style=flat-square&logo=meta&logoColor=white)` |
-| Muse Glimmer    | ![Muse Glimmer](https://img.shields.io/badge/Muse%20Glimmer-6AB7D6?style=flat-square&logo=meta&logoColor=white) | `[Muse Glimmer](https://img.shields.io/badge/Muse%20Glimmer-6AB7D6?style=flat-square&logo=meta&logoColor=white)` |
-| Llama    | ![Llama](https://img.shields.io/badge/Llama%204-1778F2?style=flat-square&logo=meta&logoColor=white) | `[Llama](https://img.shields.io/badge/Llama%204-1778F2?style=flat-square&logo=meta&logoColor=white)` |
-| HuggingFace | ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black) | `![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black)` |
-| LangChain      | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | `![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)` |
-| Ollama      | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) | `![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)` |
+## IA
+| IAs | Preview | Markdown Code |
+| --- | --- | --- |
+| ChatGPT | ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square) | `[ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square)` |
+| GPT-OSS | ![GPT-OSS](https://img.shields.io/badge/GPT--OSS-000000?style=flat-square&logo=openai&logoColor=white) | `[GPT-OSS](https://img.shields.io/badge/GPT--OSS-000000?style=flat-square&logo=openai&logoColor=white)` |
+| Claude | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | `[Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)` |
+| Gemini | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | `[Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)` |
+| Gemma 4 | ![Gemma 4](https://img.shields.io/badge/Gemma%204-4285F4?style=flat-square&logo=google&logoColor=white) | `[Gemma 4](https://img.shields.io/badge/Gemma%204-4285F4?style=flat-square&logo=google&logoColor=white)` |
+| DeepSeek | ![[DeepSeek](https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=white&style=flat-square)](https://deepseek.com) | `[[DeepSeek](https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=white&style=flat-square)](https://deepseek.com)` |
+| Grok | ![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white) | `[Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)` |
+| Muse Spark | ![Muse Spark](https://img.shields.io/badge/Muse%20Spark-0064E0?style=flat-square&logo=meta&logoColor=white) | `[Muse Spark](https://img.shields.io/badge/Muse%20Spark-0064E0?style=flat-square&logo=meta&logoColor=white)` |
+| Muse Glimmer | ![Muse Glimmer](https://img.shields.io/badge/Muse%20Glimmer-6AB7D6?style=flat-square&logo=meta&logoColor=white) | `[Muse Glimmer](https://img.shields.io/badge/Muse%20Glimmer-6AB7D6?style=flat-square&logo=meta&logoColor=white)` |
+| Llama 4 | ![Llama 4](https://img.shields.io/badge/Llama%204-1778F2?style=flat-square&logo=meta&logoColor=white) | `[Llama 4](https://img.shields.io/badge/Llama%204-1778F2?style=flat-square&logo=meta&logoColor=white)` |
+| Qwen | ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white) | `[Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)` |
+| Mistral AI | [Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logo=mistralai&logoColor=white) | `[Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logo=mistralai&logoColor=white)` |
+| Perplexity | [Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=flat-square&logo=perplexity&logoColor=white) | `[Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=flat-square&logo=perplexity&logoColor=white)` |
+| Copilot | [Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white) | `[Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoftcopilot&logoColor=white)` |
+| Meta AI | [Meta AI](https://img.shields.io/badge/Meta%20AI-0064E0?style=flat-square&logo=meta&logoColor=white) | `[Meta AI](https://img.shields.io/badge/Meta%20AI-0064E0?style=flat-square&logo=meta&logoColor=white)` |
+| HuggingFace | [HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black) | `[HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black)` |
+| LangChain | [LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | `[LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)` |
+| Ollama | [Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) | `[Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)` |
 
 
 ## DEV TOOLS
